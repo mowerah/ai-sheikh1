@@ -1,0 +1,4 @@
+student_id,name,subject,grade,study_hours_per_week,epoch (ms),time (01:00),elapsed (s),score
+1,Emma,History,B,9,1547472169751,2024-12-28T14:22:49.751,0.0,82
+2,Liam,Geography,A,11,1547472169831,2024-12-28T14:22:49.831,0.08,89
+3,Noah,Math,A,10,1547472169911,2024-12-28T14:22:49.911,0.16,93

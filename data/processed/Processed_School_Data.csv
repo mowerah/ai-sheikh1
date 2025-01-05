@@ -1,0 +1,13 @@
+student_id,name,subject,grade,study_hours_per_week,epoch (ms),time (01:00),elapsed (s),score,school,category,year
+4,Sophia,Economics,A,13,1547472169353,2024-12-28T14:22:49.353,0.0,88,Maplewood Academy,A-level,2024
+5,James,Physics,A*,16,1547472169393,2024-12-28T14:22:49.393,0.04,95,Maplewood Academy,A-level,2024
+6,Olivia,Chemistry,B,14,1547472169433,2024-12-28T14:22:49.433,0.08,84,Maplewood Academy,A-level,2024
+1,Emma,History,B,9,1547472169751,2024-12-28T14:22:49.751,0.0,82,Maplewood Academy,GCSE,2024
+2,Liam,Geography,A,11,1547472169831,2024-12-28T14:22:49.831,0.08,89,Maplewood Academy,GCSE,2024
+3,Noah,Math,A,10,1547472169911,2024-12-28T14:22:49.911,0.16,93,Maplewood Academy,GCSE,2024
+4,Diana,Physics,A*,15,1547472169353,2024-12-28T14:22:49.353,0.0,92,Greenwood High,A-level,2024
+5,Ethan,Chemistry,A,14,1547472169393,2024-12-28T14:22:49.393,0.04,88,Greenwood High,A-level,2024
+6,Fiona,Biology,B,16,1547472169433,2024-12-28T14:22:49.433,0.08,85,Greenwood High,A-level,2024
+1,Alice,Math,A,10,1547472169751,2024-12-28T14:22:49.751,0.0,85,Greenwood High,GCSE,2024
+2,Bob,English,B,8,1547472169831,2024-12-28T14:22:49.831,0.08,78,Greenwood High,GCSE,2024
+3,Charlie,Science,C,12,1547472169911,2024-12-28T14:22:49.911,0.16,91,Greenwood High,GCSE,2024

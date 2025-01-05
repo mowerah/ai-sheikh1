@@ -1,0 +1,13 @@
+epoch (ms),student_id,name,subject,grade,study_hours_per_week,score,school,category,year
+2019-01-14 13:22:49.353,4,Sophia,Economics,A,13,88,Maplewood Academy,A-level,2024
+2019-01-14 13:22:49.393,5,James,Physics,A*,16,95,Maplewood Academy,A-level,2024
+2019-01-14 13:22:49.433,6,Olivia,Chemistry,B,14,84,Maplewood Academy,A-level,2024
+2019-01-14 13:22:49.751,1,Emma,History,B,9,82,Maplewood Academy,GCSE,2024
+2019-01-14 13:22:49.831,2,Liam,Geography,A,11,89,Maplewood Academy,GCSE,2024
+2019-01-14 13:22:49.911,3,Noah,Math,A,10,93,Maplewood Academy,GCSE,2024
+2019-01-14 13:22:49.353,4,Diana,Physics,A*,15,92,Greenwood High,A-level,2024
+2019-01-14 13:22:49.393,5,Ethan,Chemistry,A,14,88,Greenwood High,A-level,2024
+2019-01-14 13:22:49.433,6,Fiona,Biology,B,16,85,Greenwood High,A-level,2024
+2019-01-14 13:22:49.751,1,Alice,Math,A,10,85,Greenwood High,GCSE,2024
+2019-01-14 13:22:49.831,2,Bob,English,B,8,78,Greenwood High,GCSE,2024
+2019-01-14 13:22:49.911,3,Charlie,Science,C,12,91,Greenwood High,GCSE,2024
